@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: health-handler-provider
+euerka:
+  instance:
+    hostname: localhost
+  client:
+    healthcheck:
+      enabled: true
+    instanceInfoReplicationIntervalSecondes: 10
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

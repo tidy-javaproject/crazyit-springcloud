@@ -1,0 +1,12 @@
+spring:
+    application:
+        name: first-cloud-provider
+eureka: 
+    instance:
+        hostname: localhost 
+    client:
+        serviceUrl: 
+            defaultZone: http://slave1:8761/eureka/,http://slave2:8762/eureka/
+logging:
+    level:
+        com.netflix: INFO

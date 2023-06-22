@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "first-ribbon-server"
+		},
+		{
+			"path": "first-ribbon-client"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

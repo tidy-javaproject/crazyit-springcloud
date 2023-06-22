@@ -1,0 +1,12 @@
+server:
+  port: 8761
+eureka:
+  server: 
+    evictionIntervalTimerInMs: 60000
+    renewalPercentThreshold: 0.85
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+logging:
+  level:
+    com.netflix: INFO

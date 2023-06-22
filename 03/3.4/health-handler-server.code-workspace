@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "health-handler-server"
+		},
+		{
+			"name": "health-handler-provider",
+			"path": "health-handler-provider"
+		},
+		{
+			"name": "health-handler-invoker",
+			"path": "health-handler-invoker"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

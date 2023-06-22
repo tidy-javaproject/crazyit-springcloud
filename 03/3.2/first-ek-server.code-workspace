@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "first-ek-server"
+		},
+		{
+			"name": "first-ek-service-provider",
+			"path": "first-ek-service-provider"
+		},
+		{
+			"name": "first-ek-service-invoker",
+			"path": "first-ek-service-invoker"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

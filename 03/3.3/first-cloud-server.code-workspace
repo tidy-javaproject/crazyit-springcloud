@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "first-cloud-server"
+		},
+		{
+			"path": "first-cloud-provider"
+		},
+		{
+			"path": "first-cloud-invoker"
+		},
+		{
+			"name": "first-cloud-rest-client",
+			"path": "first-cloud-rest-client"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [],
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
